@@ -1,0 +1,352 @@
+/* Advertisement */
+.widget-advertisement:after {
+	clear: both;
+	content: "";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+/* Dribbble */
+.widget-dribbble:after {
+	clear: both;
+	content: "";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.widget-dribbble .dribbble-wrap {
+	height: auto;
+	margin: 0 0 20px;
+	max-width: 100%;
+}
+
+.widget-dribbble .dribbble-link {
+	background: none;
+	border: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+.widget-dribbble .dribbble-link img {
+	border: 0;
+	box-shadow: 0 0 6px rgba(75,75,75,0.3);
+	float: none;
+	height: auto;
+	margin: 0 0 5px;
+	max-width: 100%;
+	padding: 0;
+}
+
+.widget-dribbble .dribbble-title {
+	background: none;
+	border: 0;
+	display: block;
+	font-weight: 600;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	text-transform: capitalize;
+}
+
+.widget-dribbble .dribbble-date {
+	background: none;
+	border: 0;
+	display: block;
+	font-size: 12px;
+	font-weight: 400;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+/* Feedburner */
+.widget-feedburner .newsletter-wrap {
+	position: relative;
+}
+
+.widget-feedburner .newsletter-text {
+	box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+	font-size: 14px;
+	padding: 8px 95px 8px 10px;
+	width: 100%;
+}
+
+.widget-feedburner .newsletter-submit,
+.widget-feedburner .newsletter-submit:hover {
+	background: transparent;
+	border: 0;
+	box-shadow: none;
+	color: #999;
+	display: block;
+	float: none;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	right: 12px;
+	text-transform: uppercase;
+	top: 11px;
+	z-index: 2;
+}
+
+/* Flickr */
+.widget-flickr:after {
+	clear: both;
+	content: "";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.widget-flickr a {
+	background: none;
+	border: 0;
+	box-shadow: 0 0 6px rgba(75,75,75,0.3);
+	float: left; 
+	margin: 0 10px 10px 0; 
+	padding: 0;     	         
+}
+		
+.widget-flickr img {
+	float: left;
+	height: 65px;
+	width: 65px;    
+}
+
+/* List Authors */
+.widget-list-authors li {
+	background: none;
+	list-style: none;
+	margin: 0 0 10px;
+	padding: 0;
+}
+
+.widget-list-authors li:after {
+	clear: both;
+	content: "";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.widget-list-authors .avatar {
+	float: left;
+	margin: 5px 15px 0 0;
+}
+
+.widget-list-authors .author-name,
+.widget-list-authors .author-name:hover {
+	display: block;
+	text-decoration: none;
+}
+
+.widget-list-authors .author-url,
+.widget-list-authors .author-url:hover {
+	display: block;
+	font-size: 11px;
+	margin: 0.2em 0 0.3em;
+	overflow: hidden;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+.widget-list-authors .post-count {
+	display: block;
+	font-size: 11px;
+	overflow: hidden;
+	text-transform: uppercase;
+}
+
+/* MailChimp */
+.widget-mailchimp .newsletter-wrap {
+	position: relative;
+}
+
+.widget-mailchimp .newsletter-text {
+	box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+	font-size: 14px;
+	padding: 8px 95px 8px 10px;
+	width: 100%;
+}
+
+.widget-mailchimp .newsletter-submit,
+.widget-mailchimp .newsletter-submit:hover {
+	background: transparent;
+	border: 0;
+	box-shadow: none;
+	color: #999;
+	display: block;
+	float: none;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	right: 12px;
+	text-transform: uppercase;
+	top: 11px;
+	z-index: 2;
+}
+
+/* Portfolio */
+.widget-portfolio:after {
+	clear: both;
+	content: "";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.widget-portfolio .image-wrap {
+	height: auto;
+	margin: 0 0 20px;
+	max-width: 100%;
+}
+
+.widget-portfolio .image-link {
+	background: none;
+	border: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+.widget-portfolio .image-link img {
+	border: 0;
+	box-shadow: 0 0 6px rgba(75,75,75,0.3);
+	float: none;
+	height: auto;
+	margin: 0 0 5px;
+	max-width: 100%;
+	padding: 0;
+}
+
+.widget-portfolio .image-title {
+	background: none;
+	border: 0;
+	display: block;
+	font-weight: 600;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	text-transform: capitalize;
+}
+
+.widget-portfolio .image-date {
+	background: none;
+	border: 0;
+	display: block;
+	font-size: 12px;
+	font-weight: 400;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+/* Recent Comments */
+.widget-recent-comments li {
+	background: none;
+	list-style: none;
+	margin: 0 0 10px;
+	padding: 0;
+}
+
+.widget-recent-comments li:after {
+	clear: both;
+	content: "";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.widget-recent-comments .avatar {
+	float: left;
+	margin: 5px 20px 5px 0;
+}
+
+.widget-recent-comments .name,
+.widget-recent-comments .name a,
+.widget-recent-comments .name a:hover {
+	text-decoration: none;
+}
+
+.widget-recent-comments .date {
+	display: block;
+	font-size: 12px;
+	margin: 0 0 2px;
+}
+
+.widget-recent-comments .title,
+.widget-recent-comments .title:hover {
+	display: block;
+	font-size: 12px;
+	overflow: hidden;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+/* Recent Images */
+.widget-recent-images:after {
+	clear: both;
+	content: "";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.widget-recent-images a {
+	background: none;
+	border: 0;
+	float: left; 
+	margin: 0 10px 10px 0; 
+	padding: 0;     	         
+}
+		
+.widget-recent-images img {
+	box-shadow: 0 0 6px rgba(75,75,75,0.3);
+	float: left;
+	height: 65px;
+	width: 65px;    
+}
+
+/* Recent Posts */
+.widget-recent-posts li {
+	background: none;
+	list-style: none;
+	margin: 0 0 10px;
+	padding: 0;
+}
+
+.widget-recent-posts li a,
+.widget-recent-posts li a:hover {
+	text-decoration: none;
+}
+
+.widget-recent-posts li .post-date {
+	display: block;
+	font-size: 12px;
+	margin: 2px 0 0;
+	text-transform: uppercase;
+}
+
+/* Social Profiles */
+.widget-social-profiles:after {
+	clear: both;
+	content: "";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.widget-social-profiles div a,
+.widget-social-profiles div a:hover {
+	border: 0;
+	float: left;
+	margin: 0 10px 0 0;
+	padding: 0;
+	text-decoration: none;
+}

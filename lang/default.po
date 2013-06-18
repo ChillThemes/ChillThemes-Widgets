@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ChillThemes Widgets\n"
+"POT-Creation-Date: 2013-06-12 16:31-0600\n"
+"PO-Revision-Date: 2013-06-12 16:31-0600\n"
+"Last-Translator: Matt Adams\n"
+"Language-Team: ChillThemes <matt@chillthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/widget-advertisement.php:30
+msgid "ChillThemes Advertisement"
+msgstr ""
+
+#: classes/widget-advertisement.php:250
+msgid "Ad Code One:"
+msgstr ""
+
+#: classes/widget-advertisement.php:257
+msgid "Ad Image One:"
+msgstr ""
+
+#: classes/widget-advertisement.php:262
+msgid "Ad URL One:"
+msgstr ""
+
+#: classes/widget-advertisement.php:267
+msgid "Alt Text One:"
+msgstr ""
+
+#: classes/widget-advertisement.php:274
+msgid "Ad Code Two:"
+msgstr ""
+
+#: classes/widget-advertisement.php:281
+msgid "Ad Image Two:"
+msgstr ""
+
+#: classes/widget-advertisement.php:286
+msgid "Ad URL Two:"
+msgstr ""
+
+#: classes/widget-advertisement.php:291
+msgid "Alt Text Two:"
+msgstr ""
+
+#: classes/widget-advertisement.php:298
+msgid "Ad Code Three:"
+msgstr ""
+
+#: classes/widget-advertisement.php:305
+msgid "Ad Image Three:"
+msgstr ""
+
+#: classes/widget-advertisement.php:310
+msgid "Ad URL Three:"
+msgstr ""
+
+#: classes/widget-advertisement.php:315
+msgid "Alt Text Three:"
+msgstr ""
+
+#: classes/widget-advertisement.php:322
+msgid "Ad Code Four:"
+msgstr ""
+
+#: classes/widget-advertisement.php:329
+msgid "Ad Image Four:"
+msgstr ""
+
+#: classes/widget-advertisement.php:334
+msgid "Ad URL Four:"
+msgstr ""
+
+#: classes/widget-advertisement.php:339
+msgid "Alt Text Four:"
+msgstr ""
+
+#: classes/widget-dribbble.php:30
+msgid "ChillThemes Dribbble"
+msgstr ""
+
+#: classes/widget-dribbble.php:133 classes/widget-feedburner.php:104
+#: classes/widget-flickr.php:98 classes/widget-list-authors.php:127
+#: classes/widget-mailchimp.php:103 classes/widget-portfolio.php:133
+#: classes/widget-recent-comments.php:120 classes/widget-recent-images.php:121
+#: classes/widget-recent-posts.php:160 classes/widget-social-profiles.php:157
+msgid "Title:"
+msgstr ""
+
+#: classes/widget-dribbble.php:138
+msgid "Username:"
+msgstr ""
+
+#: classes/widget-dribbble.php:143 classes/widget-flickr.php:108
+#: classes/widget-list-authors.php:132 classes/widget-portfolio.php:138
+#: classes/widget-recent-comments.php:125 classes/widget-recent-images.php:126
+#: classes/widget-recent-posts.php:171
+msgid "Limit:"
+msgstr ""
+
+#: classes/widget-dribbble.php:149
+msgid "Show shot title?"
+msgstr ""
+
+#: classes/widget-dribbble.php:154
+msgid "Show shot date?"
+msgstr ""
+
+#: classes/widget-feedburner.php:30
+msgid "ChillThemes Feedburner"
+msgstr ""
+
+#: classes/widget-feedburner.php:109 classes/widget-mailchimp.php:108
+msgid "Description:"
+msgstr ""
+
+#: classes/widget-feedburner.php:114
+msgid "Google/Feedburner ID:"
+msgstr ""
+
+#: classes/widget-feedburner.php:119 classes/widget-mailchimp.php:119
+msgid "Placeholder:"
+msgstr ""
+
+#: classes/widget-feedburner.php:124 classes/widget-mailchimp.php:124
+msgid "Input Text:"
+msgstr ""
+
+#: classes/widget-flickr.php:30
+msgid "ChillThemes Flickr"
+msgstr ""
+
+#: classes/widget-flickr.php:103
+msgid "ID:"
+msgstr ""
+
+#: classes/widget-flickr.php:113
+msgid "Display:"
+msgstr ""
+
+#: classes/widget-flickr.php:122
+msgid "Type:"
+msgstr ""
+
+#: classes/widget-list-authors.php:30
+msgid "ChillThemes List Authors"
+msgstr ""
+
+#: classes/widget-list-authors.php:76
+#, php-format
+msgid "Visit %2$s's Website"
+msgstr ""
+
+#: classes/widget-list-authors.php:77
+#, php-format
+msgid "Published Articles: %s"
+msgstr ""
+
+#: classes/widget-list-authors.php:137 classes/widget-portfolio.php:143
+#: classes/widget-recent-images.php:131 classes/widget-recent-posts.php:181
+msgid "Order:"
+msgstr ""
+
+#: classes/widget-list-authors.php:146 classes/widget-portfolio.php:152
+#: classes/widget-recent-images.php:140 classes/widget-recent-posts.php:190
+msgid "Order By:"
+msgstr ""
+
+#: classes/widget-mailchimp.php:30
+msgid "ChillThemes MailChimp"
+msgstr ""
+
+#: classes/widget-mailchimp.php:113
+msgid "List URL:"
+msgstr ""
+
+#: classes/widget-mailchimp.php:113
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Get the Signup Form Link</a>"
+msgstr ""
+
+#: classes/widget-portfolio.php:30
+msgid "ChillThemes Portfolio"
+msgstr ""
+
+#: classes/widget-portfolio.php:162
+msgid "Show image title?"
+msgstr ""
+
+#: classes/widget-portfolio.php:167
+msgid "Show image date?"
+msgstr ""
+
+#: classes/widget-recent-comments.php:30
+msgid "ChillThemes Recent Comments"
+msgstr ""
+
+#: classes/widget-recent-comments.php:69
+#, php-format
+msgid ""
+"%1$s <span class=\"name\">%2$s</span> <span class=\"date\">%5$s</span> <a "
+"class=\"title\" href=\"%3$s\">%4$s</a>"
+msgstr ""
+
+#: classes/widget-recent-images.php:30
+msgid "ChillThemes Recent Images"
+msgstr ""
+
+#: classes/widget-recent-posts.php:30
+msgid "ChillThemes Recent Posts"
+msgstr ""
+
+#: classes/widget-recent-posts.php:104
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: classes/widget-recent-posts.php:165
+msgid "Category Name:"
+msgstr ""
+
+#: classes/widget-recent-posts.php:176
+msgid "Offset:"
+msgstr ""
+
+#: classes/widget-recent-posts.php:200
+msgid "Show post meta?"
+msgstr ""
+
+#: classes/widget-recent-posts.php:205
+msgid "Show post content?"
+msgstr ""
+
+#: classes/widget-social-profiles.php:59
+msgid "ChillThemes Social Profiles"
+msgstr ""
+
+#: classes/widget-social-profiles.php:162
+msgid "Icon Color:"
+msgstr ""
+
+#: classes/widget-social-profiles.php:168
+msgid "Icon Size:"
+msgstr ""
