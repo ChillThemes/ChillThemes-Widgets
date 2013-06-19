@@ -1,7 +1,7 @@
 === ChillThemes Widgets ===
 Contributors: chillthemes
 Donate link: http://chillthemes.com/donate
-Tags: authors, dribbble, feedburner, mailchimp, recent-comments, recent-posts, widgets
+Tags: chillthemes, authors, dribbble, feedburner, mailchimp, recent-comments, recent-posts, widgets
 Requires at least: 3.4
 Tested up to: 3.6
 Stable tag: 1.7
