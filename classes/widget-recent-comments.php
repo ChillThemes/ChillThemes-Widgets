@@ -71,7 +71,7 @@ class ChillThemes_Widget_Recent_Comments extends WP_Widget {
 								get_comment_author_link( $comment->comment_ID ),
 								esc_url( get_comment_link( $comment->comment_ID ) ),
 								get_the_title( $comment->comment_post_ID ),
-								esc_html( get_the_date( 'm/d/Y' ), $comment->comment_ID )
+								esc_html( get_comment_date( 'm/d/Y' ), $comment->comment_ID )
 							);
 
 						echo '</li>';

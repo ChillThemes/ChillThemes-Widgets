@@ -4,7 +4,7 @@ Donate link: http://chillthemes.com/donate
 Tags: chillthemes, authors, dribbble, feedburner, mailchimp, recent-comments, recent-posts, widgets
 Requires at least: 3.4
 Tested up to: 3.6
-Stable tag: 1.7
+Stable tag: 1.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,6 +31,9 @@ Enables custom widgets for use in any WordPress theme, this plugin was made spec
 5. You're done! You'll see a few new widgets in Appearance -> Widgets.
 
 == Changelog ==
+
+= 1.8 =
+* Fixed issue that caused the Recent Comments widget to return the incorrect date.
 
 = 1.7 =
 * Fixed placeholder issue with the MailChimp widget.
