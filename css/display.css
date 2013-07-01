@@ -344,6 +344,7 @@
 
 .widget-social-profiles div a,
 .widget-social-profiles div a:hover {
+	background: none;
 	border: 0;
 	float: left;
 	margin: 0 10px 0 0;
