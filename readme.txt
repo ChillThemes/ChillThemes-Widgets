@@ -4,7 +4,7 @@ Donate link: http://chillthemes.com/donate
 Tags: chillthemes, authors, dribbble, feedburner, mailchimp, recent-comments, recent-posts, widgets
 Requires at least: 3.4
 Tested up to: 3.6
-Stable tag: 1.8
+Stable tag: 1.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

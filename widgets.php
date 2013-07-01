@@ -4,7 +4,7 @@
 Plugin Name: ChillThemes Widgets
 Plugin URI: http://wordpress.org/plugins/chillthemes-widgets
 Description: Enables custom widgets for use in any of our Chill Themes.
-Version: 1.8
+Version: 1.9
 Author: ChillThemes
 Author URI: http://chillthemes.com
 Author Email: matt@chillthemes.com
